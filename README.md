@@ -1,5 +1,5 @@
-# SDSS-Galaxy-Luminosity-Distributio-n
-Data obtained from SDSS Digital relase 7
+# SDSS-Galaxy-Luminosity-Distribution
+Data obtained from SDSS Digital release 7
 
 Contains data from galaxies within these criteria:
   1) RA from 145 to 236 degrees
